@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Polepalli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeepkumarpolepalli&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeepkumarpolepalli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkumar-28&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkumar-28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeeepkumarpolepalli" alt="sandeeepkumarpolepalli" /></a> </p>
 
